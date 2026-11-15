@@ -1,7 +1,7 @@
 ## salxish's intro!
 
 # 💫 About Me:
-hi! i'm a student who aspires to be a future biochemist or cs major!<br><br>🍡i've loved code since i was 9, but i also love french and science!<br><br>i'm currently working on:<br>-training and fine-tuning LLM's with PyTorch and Transformers<br>-a computer science GCSE qualification<br><br>i'm learning:<br>-how to wrestle API's<br>-how to create an LLM from scratch<br><br>what's next?<br>-Javascript!<br>-a computer science A-Level qualification!<br><br>
+hi! i'm a student, game dev and software dev who aspires to be a cs major!<br><br>🍡i've loved code since i was 6, but i also love language learning and music<br><br>i'm currently working on:<br>-training and fine-tuning LLM's with PyTorch and Transformer<br>-a computer science A-Level qualification!<br><br>i'm learning:<br>-the joys of C#<br>-how to create an LLM from scratch<br><br>what's next?<br>-a degree apprenticeship!<br><br>
 
 ## coding languages:
 <p align= "left">
